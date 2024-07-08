@@ -33,6 +33,10 @@ E
 spero que esta descripción te sea útil. ¡No dudes en preguntar si tienes alguna otra duda o necesitas más detalles!
 
 
+# ÍCONO
+
+![](SqlTableViewer/1.png)
+
  
 # ¿Quién Soy?
 
