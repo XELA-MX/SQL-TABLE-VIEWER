@@ -29,8 +29,9 @@ Este proyecto es una herramienta visualizadora de tablas SQL que facilita la exp
 * WPF (Windows Presentation Foundation)
 * SQL Server
 * ADO.NET (SqlDataAdapter, DataTable)
-E
-spero que esta descripción te sea útil. ¡No dudes en preguntar si tienes alguna otra duda o necesitas más detalles!
+
+
+Espero que esta descripción te sea útil. ¡No dudes en preguntar si tienes alguna otra duda o necesitas más detalles!
 
 
 # ÍCONO
